@@ -29,7 +29,7 @@
     },
     "dependencies": {
         "@hapi/cryptiles": "^4.2.1",
-        "aws-sdk": "^2.229.1",
+        "aws-sdk": "^2.814.0",
         "bcryptjs": "^2.4.3",
         "extend": ">=3.0.2",
         "jest": "^24.9.0",
